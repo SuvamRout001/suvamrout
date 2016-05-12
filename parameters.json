@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "name": {
+            "value": "lonu"
+        },
+        "hostingPlanName": {
+            "value": "ServicePlan51a64e74-a799"
+        },
+        "location": {
+            "value": "South Central US"
+        },
+        "hostingEnvironment": {
+            "value": ""
+        },
+        "serverFarmResourceGroup": {
+            "value": "SUVAM"
+        },
+        "subscriptionId": {
+            "value": "67398600-44a9-42fe-bed9-588f0f506c56"
+        }
+    }
+}
